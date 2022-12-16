@@ -1,0 +1,14 @@
+.pagination {
+    float: right;
+    margin: 0 0 5px;
+    padding-top: 6px;
+    font-size: 13px;
+    min-width: 1px;
+    min-height: 30px;
+    color: #999;
+    line-height: 30px;
+    border-radius: 2px !important;
+    text-align: center;
+}
+
+
