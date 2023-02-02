@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.bsw.go.id/assets_users/img/header_frontend2.png" width="400"></p>
+<p align="center"><img src="http://dev.bsw.go.id/assets_users/img/header_frontend2.png" width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
